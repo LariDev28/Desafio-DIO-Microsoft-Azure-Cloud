@@ -1,5 +1,6 @@
 # Desafio-DIO-Microsoft-Azure-Cloud
 Armazenando dados de um E-Commerce na Cloud
+
 📌 Descrição do Projeto
 
 Este projeto foi desenvolvido como parte do Bootcamp Microsoft Azure Cloud Native 2026 da DIO, com o objetivo de desenvolver uma solução para armazenar e gerenciar dados de um e-commerce na nuvem, com foco em escalabilidade, segurança e eficiência.
