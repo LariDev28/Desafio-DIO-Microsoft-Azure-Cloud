@@ -10,6 +10,17 @@ Azure SQL Database
 Azure Storage
 VSCode
 
+🎯 Objetivos do Desafio
+
+Compreender os conceitos fundamentais de Cloud Computing
+
+Explorar os serviços da Microsoft Azure
+
+Implementar uma estrutura básica de e-commerce na nuvem
+
+Praticar deploy e gerenciamento de recursos cloud
+
+
 🚀 Resultados
 
 Ao final do desafio, foi possível compreender como a nuvem pode ser utilizada para hospedar aplicações de e-commerce, permitindo escalabilidade, segurança e gerenciamento simplificado da infraestrutura.
