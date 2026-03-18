@@ -1,5 +1,4 @@
-# Desafio-DIO-Microsoft-Azure-Cloud
-Armazenando dados de um E-Commerce na Cloud
+📦 Desafio DIO – E-Commerce na Azure Cloud
 
 📌 Descrição do Projeto
 
@@ -7,9 +6,15 @@ Este projeto foi desenvolvido como parte do Bootcamp Microsoft Azure Cloud Nativ
 
 ☁️ Tecnologias e Serviços Utilizados
 
+Microsoft Azure
+
 Azure SQL Database
+
 Azure Storage
+
 VSCode
+
+Python
 
 🎯 Objetivos do Desafio
 
@@ -20,6 +25,18 @@ Explorar os serviços da Microsoft Azure
 Implementar uma estrutura básica de e-commerce na nuvem
 
 Praticar deploy e gerenciamento de recursos cloud
+
+🚀 Funcionalidades
+
+Cadastro e gerenciamento de produtos
+
+Armazenamento de dados em banco na nuvem
+
+Upload de imagens de produtos
+
+Estrutura de e-commerce escalável
+
+Deploy da aplicação na nuvem
 
 
 🚀 Resultados
